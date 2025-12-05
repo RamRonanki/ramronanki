@@ -28,10 +28,10 @@ function App() {
         <div className="content">
           <div className="header">
             <h1 className="title">
-              My <span className="highlight">Portfolio</span> is Coming Soon
+              Portfolio <span className="highlight">Coming Soon</span>
             </h1>
             <p className="subtitle">
-              Showcasing my projects, skills, and experience. Stay tuned for the launch!
+              Building something worth your time. Get notified when it launches.
             </p>
           </div>
 
@@ -59,16 +59,16 @@ function App() {
 
           <div className="features">
             <div className="feature">
-              <div className="feature-icon">�</div>
-              <p>Projects</p>
+              <div className="feature-icon">💻</div>
+              <p>Work</p>
             </div>
             <div className="feature">
-              <div className="feature-icon">🎯</div>
+              <div className="feature-icon">🛠️</div>
               <p>Skills</p>
             </div>
             <div className="feature">
-              <div className="feature-icon">🚀</div>
-              <p>Experience</p>
+              <div className="feature-icon">📧</div>
+              <p>Contact</p>
             </div>
           </div>
         </div>
@@ -76,11 +76,9 @@ function App() {
         <footer className="footer">
           <p>&copy; 2025. All rights reserved.</p>
           <div className="social-links">
-            <a href="#twitter">Twitter</a>
+            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">X</a>
             <span>•</span>
-            <a href="#facebook">Facebook</a>
-            <span>•</span>
-            <a href="#instagram">Instagram</a>
+            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">Instagram</a>
           </div>
         </footer>
       </div>
