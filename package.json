@@ -1,7 +1,8 @@
 {
-  "name": "coming-soon",
+   "name": "coming-soon",
   "version": "1.0.0",
   "description": "A stylish coming soon landing page",
+  "homepage": ".",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
